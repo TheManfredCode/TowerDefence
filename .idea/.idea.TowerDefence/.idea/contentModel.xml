@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Qway\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Qway\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TowerDefence.199419516.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\UnityProjects\TowerDefence" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="DirectionExtensions.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyCollection.cs" t="Include" />
+          <e p="EnemyFactory.cs" t="Include" />
+          <e p="FloatRange.cs" t="Include" />
+          <e p="FloatRangeSliderDrawer.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="GameBoard.cs" t="Include" />
+          <e p="GameObjectFactory.cs" t="Include" />
+          <e p="GameTile.cs" t="Include" />
+          <e p="GameTileContent.cs" t="Include" />
+          <e p="GameTileContentFactory.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="TowerDefence.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
